@@ -1,4 +1,14 @@
-## Hi there 👋
+```
+[~]% Hello my name is Ricardo Martins
+[~]% I am an IT Developer with 3 years coding experience. work with Backend-developer
+[~]%
+[~]% Technologies: Java,Spring Framework,NodeJS for BackEnd, MySQL,
+     PostgreSQL, MongoDB, SQLite, Redis, TDD, DDD, BDD
+[~]%
+[~]%
+[~]% Here contacts: 
+```
+
 
 <!--
 **jusmrcrd/jusmrcrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
