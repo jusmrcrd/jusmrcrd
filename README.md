@@ -3,7 +3,7 @@
 [~]% I am an IT Developer with 3 years coding experience. work with Backend-developer
 [~]%
 [~]% Technologies: Java,Spring Framework,NodeJS for BackEnd, MySQL,
-     PostgreSQL, MongoDB, SQLite, Redis, TDD, DDD, BDD
+[~]% PostgreSQL, MongoDB, SQLite, Redis, TDD, DDD, BDD
 [~]%
 [~]%
 [~]% Here contacts: 
