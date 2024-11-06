@@ -7,7 +7,7 @@
 [~]%
 [~]% Languages: Java, Python, TypeScript. 
 [~]% Technologies: Java,Spring Framework,NodeJS for BackEnd, MySQL,
-     PostgreSQL, MongoDB, SQLite, Redis, TDD, DDD, BDD
+[~]% PostgreSQL, MongoDB, SQLite, Redis, TDD, DDD, BDD
 [~]%
 [~]%
 [~]% Here contacts: 
