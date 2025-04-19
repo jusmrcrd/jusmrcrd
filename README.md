@@ -1,5 +1,4 @@
 ```shell
-##################################################
 [~]$ echo "Hello, I'm Ricardo Martins, IT Developer (3 yrs exp - Backend)"
 
 [~]$ echo "Languages: "
@@ -13,8 +12,6 @@
        "  • TDD, BDD, Docker"
 
 [~]$ echo "Connect: linkedin.com/in/ricardo-jusmrcrd/"
-##################################################
-
 ```
 
 
